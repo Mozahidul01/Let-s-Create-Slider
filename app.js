@@ -57,14 +57,14 @@ const selectItem = (event, img) => {
 
     let item = sliders.indexOf(img);
     if (item === -1) {
-        sliders.push(img);
+      sliders.push(img);
     }
     if(item > -1){
-        element.classList.remove("added");
-        sliders.splice(img, 1);
+      element.classList.remove("added");
+      sliders.pop(img);
     }
-    console.log(item, sliders, img)
-    return sliders;
+  console.log(item, sliders, img);
+  return sliders;
 };
 
 let timer

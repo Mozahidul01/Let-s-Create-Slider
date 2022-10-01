@@ -29,7 +29,7 @@ Mobile View
 
 - Code URL: [https://github.com/Mozahidul01/Let-s-Create-Slider]
 
-- Live Site URL: [let-s-create-slider.pages.dev/]
+- Live Site URL: [https://let-s-create-slider.pages.dev/]
 
 ### Built with
 

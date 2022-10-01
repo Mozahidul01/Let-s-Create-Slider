@@ -23,7 +23,7 @@ Desktop View
 
 Mobile View
 
-![Mobile Screenshot](/images/mobile-view.png)
+![Mobile Screenshot](/images/mobile-view.jpg)
 
 ### Links
 

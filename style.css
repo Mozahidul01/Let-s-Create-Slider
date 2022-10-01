@@ -44,6 +44,26 @@ img {
     display: none;
 }
 
+.image-counter{
+    margin: 10px;
+}
+
+.counter{
+    background-color: #1e1743;
+    color: #f0f8ff;
+    padding: 8px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.number{
+    background-color: #f0f8ff;
+    color: #1e1743;
+    padding: 4px 12px;
+    border-radius: 33px;
+}
+
 .gallery{
     padding: 10px;
 }
